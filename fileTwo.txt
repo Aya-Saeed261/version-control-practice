@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+Conflict from member 1
+=======
 Hello from file2
+>>>>>>> 7c4360fd2dd6d275490cf90d600807f56c747c01
